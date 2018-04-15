@@ -4,18 +4,18 @@ body {
   font-family: Verdana;
 }
 
-.header h1 {
+.Header h1 {
 
   font-weight: normal;
   font-size: 50px;
   color: white;
 
 }
-.header a {
+a {
   color: aquamarine;
   font-size: 16px;
 }
-.heading1 h2 {
+h2 {
   color: white;
   font-size: 42px;
   font-weight: 300;
